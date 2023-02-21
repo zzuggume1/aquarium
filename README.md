@@ -1,11 +1,9 @@
-# aquarium
-
 <!DOCTYPE html>
 <meta charset="utf-8">
 <html>
   <head>
     <title>내 수조</title>
-    <script src="https://www.gstatic.com/firebasejs/4.6.2/firebase.js"></script>
+    <script src="https://aquarium-58de7-default-rtdb.firebaseio.com"></script>
   </head>
 
   <body>
